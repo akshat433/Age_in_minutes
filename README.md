@@ -19,11 +19,11 @@ The Age in Minutes App is a simple application that calculates and displays your
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/age-in-minutes.git
+    git clone https://github.com/akshat433/age_in_minutes.git
     ```
 2. Open the project in Android Studio:
     ```sh
-    cd age-in-minutes
+    cd age_in_minutes
     ```
 3. Build and run the project on an emulator or a physical device.
 
